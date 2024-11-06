@@ -1,10 +1,6 @@
 # StoreFrontApp
 An iOS storefront app showcasing items in a collection view with detailed item pages.
 
-## Screenshots
-![Screenshot of home page](images/screenshot_homepage.png)
-![Screenshot of detail page](images/screenshot_detailpage.png)
-
 ## Overview
 **StoreFrontApp** is a simple iOS app that mimics a storefront fetching API data, allowing users to browse products using a scrollable collection view. Each product is displayed with an image and price, and users can tap on any item to view detailed information on a separate page.
 
@@ -32,3 +28,7 @@ An iOS storefront app showcasing items in a collection view with detailed item p
 - **API Integration**: The app makes HTTP requests to the [Fake Store API](https://fakestoreapi.com/products) to retrieve product data. The data is parsed and displayed in the collection view and detail page. This allows the app to display dynamic content without hardcoding product information.
 
 - **Scroll Behavior**: The collection view supports smooth vertical scrolling, allowing users to browse through multiple products. The layout is responsive to different screen sizes, ensuring that the app works well on various iOS devices.
+
+## Screenshots
+![Screenshot of home page](images/screenshot_homepage.png)
+![Screenshot of detail page](images/screenshot_detailpage.png)
