@@ -1,8 +1,12 @@
 # StoreFrontApp
 An iOS storefront app showcasing items in a collection view with detailed item pages.
 
+## Screenshots
+![Screenshot of home page](images/screenshot_homepage.png)
+![Screenshot of detail page](images/screenshot_detailpage.png)
+
 ## Overview
-**StoreFrontApp** is a simple iOS app that mimics a storefront, allowing users to browse products using a scrollable collection view. Each product is displayed with an image and price, and users can tap on any item to view detailed information on a separate page.
+**StoreFrontApp** is a simple iOS app that mimics a storefront fetching API data, allowing users to browse products using a scrollable collection view. Each product is displayed with an image and price, and users can tap on any item to view detailed information on a separate page.
 
 ## Features
 - Display of products in a grid-style collection view
