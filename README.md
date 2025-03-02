@@ -30,5 +30,7 @@ An iOS storefront app showcasing items in a collection view with detailed item p
 - **Scroll Behavior**: The collection view supports smooth vertical scrolling, allowing users to browse through multiple products. The layout is responsive to different screen sizes, ensuring that the app works well on various iOS devices.
 
 ## Screenshots
-![Screenshot of home page](images/screenshot_homepage.png)
-![Screenshot of detail page](images/screenshot_detailpage.png)
+<img src="images/screenshot_homepage.png" width=200px>
+<img src="images/screenshot_detailpage.png" width="200px">
+
+
